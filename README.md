@@ -22,6 +22,8 @@ Files are compiled into /src
 
 #Healthy You One Page
 
+One Page website design for a healthy eating company
+
 Bootstrap based one page website with browser sync
 Sticky navbar with active links (pushed by the server vs static)
 Gradient background, images compressed for faster reload
